@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A35DC731C730D6F00EF9A68 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC721C730D6F00EF9A68 /* ViewController1.m */; };
+		6A35DC761C730D7B00EF9A68 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC751C730D7B00EF9A68 /* ViewController2.m */; };
+		6A35DC791C730D8500EF9A68 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC781C730D8500EF9A68 /* ViewController3.m */; };
+		6A35DC7C1C730D8F00EF9A68 /* ViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC7B1C730D8F00EF9A68 /* ViewController4.m */; };
+		6A35DC7F1C730D9900EF9A68 /* ViewController5.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC7E1C730D9900EF9A68 /* ViewController5.m */; };
+		6A35DC821C730DA600EF9A68 /* ViewController6.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC811C730DA600EF9A68 /* ViewController6.m */; };
+		6A35DC851C730DB100EF9A68 /* ViewController7.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC841C730DB100EF9A68 /* ViewController7.m */; };
+		6A35DC881C730DBF00EF9A68 /* ViewController8.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC871C730DBF00EF9A68 /* ViewController8.m */; };
+		6A35DC8B1C730DC800EF9A68 /* ViewController9.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A35DC8A1C730DC800EF9A68 /* ViewController9.m */; };
+		6A35DC8D1C731E6E00EF9A68 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A35DC8C1C731E6E00EF9A68 /* GLKit.framework */; };
+		6A546B1E1C72D8DC00A31369 /* WGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A546B1D1C72D8DC00A31369 /* WGradientView.m */; };
 		6AFF33171C72B045005D580C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AFF33161C72B045005D580C /* main.m */; };
 		6AFF331A1C72B045005D580C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AFF33191C72B045005D580C /* AppDelegate.m */; };
 		6AFF331D1C72B045005D580C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AFF331C1C72B045005D580C /* ViewController.m */; };
@@ -35,6 +46,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6A35DC711C730D6F00EF9A68 /* ViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
+		6A35DC721C730D6F00EF9A68 /* ViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
+		6A35DC741C730D7B00EF9A68 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		6A35DC751C730D7B00EF9A68 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		6A35DC771C730D8500EF9A68 /* ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
+		6A35DC781C730D8500EF9A68 /* ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
+		6A35DC7A1C730D8F00EF9A68 /* ViewController4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController4.h; sourceTree = "<group>"; };
+		6A35DC7B1C730D8F00EF9A68 /* ViewController4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController4.m; sourceTree = "<group>"; };
+		6A35DC7D1C730D9900EF9A68 /* ViewController5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController5.h; sourceTree = "<group>"; };
+		6A35DC7E1C730D9900EF9A68 /* ViewController5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController5.m; sourceTree = "<group>"; };
+		6A35DC801C730DA600EF9A68 /* ViewController6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController6.h; sourceTree = "<group>"; };
+		6A35DC811C730DA600EF9A68 /* ViewController6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController6.m; sourceTree = "<group>"; };
+		6A35DC831C730DB100EF9A68 /* ViewController7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController7.h; sourceTree = "<group>"; };
+		6A35DC841C730DB100EF9A68 /* ViewController7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController7.m; sourceTree = "<group>"; };
+		6A35DC861C730DBF00EF9A68 /* ViewController8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController8.h; sourceTree = "<group>"; };
+		6A35DC871C730DBF00EF9A68 /* ViewController8.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController8.m; sourceTree = "<group>"; };
+		6A35DC891C730DC800EF9A68 /* ViewController9.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController9.h; sourceTree = "<group>"; };
+		6A35DC8A1C730DC800EF9A68 /* ViewController9.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController9.m; sourceTree = "<group>"; };
+		6A35DC8C1C731E6E00EF9A68 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		6A546B1C1C72D8DC00A31369 /* WGradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WGradientView.h; sourceTree = "<group>"; };
+		6A546B1D1C72D8DC00A31369 /* WGradientView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WGradientView.m; sourceTree = "<group>"; };
 		6AFF33121C72B045005D580C /* TestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AFF33161C72B045005D580C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6AFF33181C72B045005D580C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -58,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A35DC8D1C731E6E00EF9A68 /* GLKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +114,7 @@
 		6AFF33091C72B045005D580C = {
 			isa = PBXGroup;
 			children = (
+				6A35DC8C1C731E6E00EF9A68 /* GLKit.framework */,
 				6AFF33141C72B045005D580C /* TestProject */,
 				6AFF332E1C72B045005D580C /* TestProjectTests */,
 				6AFF33391C72B045005D580C /* TestProjectUITests */,
@@ -105,6 +139,26 @@
 				6AFF33191C72B045005D580C /* AppDelegate.m */,
 				6AFF331B1C72B045005D580C /* ViewController.h */,
 				6AFF331C1C72B045005D580C /* ViewController.m */,
+				6A546B1C1C72D8DC00A31369 /* WGradientView.h */,
+				6A546B1D1C72D8DC00A31369 /* WGradientView.m */,
+				6A35DC711C730D6F00EF9A68 /* ViewController1.h */,
+				6A35DC721C730D6F00EF9A68 /* ViewController1.m */,
+				6A35DC741C730D7B00EF9A68 /* ViewController2.h */,
+				6A35DC751C730D7B00EF9A68 /* ViewController2.m */,
+				6A35DC771C730D8500EF9A68 /* ViewController3.h */,
+				6A35DC781C730D8500EF9A68 /* ViewController3.m */,
+				6A35DC7A1C730D8F00EF9A68 /* ViewController4.h */,
+				6A35DC7B1C730D8F00EF9A68 /* ViewController4.m */,
+				6A35DC7D1C730D9900EF9A68 /* ViewController5.h */,
+				6A35DC7E1C730D9900EF9A68 /* ViewController5.m */,
+				6A35DC801C730DA600EF9A68 /* ViewController6.h */,
+				6A35DC811C730DA600EF9A68 /* ViewController6.m */,
+				6A35DC831C730DB100EF9A68 /* ViewController7.h */,
+				6A35DC841C730DB100EF9A68 /* ViewController7.m */,
+				6A35DC861C730DBF00EF9A68 /* ViewController8.h */,
+				6A35DC871C730DBF00EF9A68 /* ViewController8.m */,
+				6A35DC891C730DC800EF9A68 /* ViewController9.h */,
+				6A35DC8A1C730DC800EF9A68 /* ViewController9.m */,
 				6AFF331E1C72B045005D580C /* Main.storyboard */,
 				6AFF33211C72B045005D580C /* Assets.xcassets */,
 				6AFF33231C72B045005D580C /* LaunchScreen.storyboard */,
@@ -270,9 +324,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A35DC8B1C730DC800EF9A68 /* ViewController9.m in Sources */,
+				6A35DC731C730D6F00EF9A68 /* ViewController1.m in Sources */,
 				6AFF331D1C72B045005D580C /* ViewController.m in Sources */,
 				6AFF331A1C72B045005D580C /* AppDelegate.m in Sources */,
+				6A546B1E1C72D8DC00A31369 /* WGradientView.m in Sources */,
 				6AFF33171C72B045005D580C /* main.m in Sources */,
+				6A35DC851C730DB100EF9A68 /* ViewController7.m in Sources */,
+				6A35DC821C730DA600EF9A68 /* ViewController6.m in Sources */,
+				6A35DC7F1C730D9900EF9A68 /* ViewController5.m in Sources */,
+				6A35DC761C730D7B00EF9A68 /* ViewController2.m in Sources */,
+				6A35DC791C730D8500EF9A68 /* ViewController3.m in Sources */,
+				6A35DC7C1C730D8F00EF9A68 /* ViewController4.m in Sources */,
+				6A35DC881C730DBF00EF9A68 /* ViewController8.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,6 +560,7 @@
 				6AFF33411C72B045005D580C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6AFF33421C72B045005D580C /* Build configuration list for PBXNativeTarget "TestProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +569,7 @@
 				6AFF33441C72B045005D580C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6AFF33451C72B045005D580C /* Build configuration list for PBXNativeTarget "TestProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +578,7 @@
 				6AFF33471C72B045005D580C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
